@@ -1,7 +1,7 @@
 #pink {
     color:rgb(79, 63, 65);
-    background-color: blanchedalmond;
-
+    background-color:blanchedalmond;
+    
 } 
 #img {
     width: 300px;
@@ -18,7 +18,7 @@
 
 body {
     height: 100vh;
-    background-image: url('../img/background.jpg');
+    background-image: url('../images/background.jpg');
     background-size: cover;
 }
 
